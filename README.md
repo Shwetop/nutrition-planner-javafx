@@ -113,3 +113,4 @@ bin/
 # Sensitive information (don't commit passwords!)
 **/Database.java
 config.properties
+
